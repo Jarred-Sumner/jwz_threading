@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = JwzThreading::VERSION
   spec.authors = ["Frederik Dietz"]
   spec.date = %q{2009-06-07}
-  spec.ecescription = %q{It is a small ruby library which lets you order a list of E-Mails by conversation. That is, grouping messages together in parent/child relationships based on which  messages are replies to which others.}
+  spec.description = %q{It is a small ruby library which lets you order a list of E-Mails by conversation. That is, grouping messages together in parent/child relationships based on which  messages are replies to which others.}
   spec.email = %q{fdietz@gmail.com}
   spec.homepage = %q{http://github.com/fdietz/jwz_threading}
   spec.license       = "MIT"
